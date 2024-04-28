@@ -1,0 +1,18 @@
+{
+  "name": "signaling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ws": "^8.5.10",
+    "lib0": "^0.2.93",
+    "ws": "^8.16.0"
+  }
+}
